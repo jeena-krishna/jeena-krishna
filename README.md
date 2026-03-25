@@ -1,7 +1,7 @@
 <!-- Profile Views Counter -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jeena-krishna&label=Profile%20views&color=D4A843&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 <!-- Header Section -->
 <div align="center">
